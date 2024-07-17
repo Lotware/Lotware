@@ -92,10 +92,4 @@
 <a href="https://www.facebook.com/jhon.garciacancino/"><img src="https://img.shields.io/badge/-Lotware-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
-### 🐍 &nbsp;That's How Commits move ...
 
-<div align="center">
-  <a href="https://github.com/Lotware/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
